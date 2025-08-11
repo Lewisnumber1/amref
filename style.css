@@ -1,0 +1,30 @@
+.red{
+    color: antiquewhite;
+    background-color: red;
+}
+.h{
+    background-color:antiquewhite ;
+    border:6px solid red ;
+    margin:60px ;
+    padding:20px ;
+    border-top: none;
+}
+.bless{
+    background-color: red;
+    color: antiquewhite;
+}
+.yes{
+    margin-right: 230px;
+}
+.ensat{
+    color: blue;
+}
+.kaya{
+    margin-right: -150px;
+}
+.lewi{
+    margin-right: 120px;
+}
+.der{
+    margin-right: 350px;
+}
