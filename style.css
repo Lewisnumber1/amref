@@ -1,6 +1,7 @@
 .red{
     color: antiquewhite;
     background-color: red;
+    text-align: center;
 }
 .h{
     background-color:antiquewhite ;
@@ -27,4 +28,16 @@
 }
 .der{
     margin-right: 350px;
+}
+.viki{
+    color: blue;
+}
+.chol{
+    margin-left: 40px;
+}
+.boss{
+    margin-right: 50px;
+}
+.olol{
+    margin-left: 540px;
 }
